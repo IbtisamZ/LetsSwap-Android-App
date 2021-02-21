@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.letsswap">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Add"></activity>
+        <activity android:name=".Romance" />
+        <activity android:name=".Poetry" />
+        <activity android:name=".Mystery" />
+        <activity android:name=".Politics" />
+        <activity android:name=".SciFi" />
+        <activity android:name=".Philosophy" />
+        <activity android:name=".Religion" />
+        <activity android:name=".Science" />
+        <activity android:name=".PaymentPage" />
+        <activity android:name=".Checkout" />
+        <activity android:name=".History" />
+        <activity android:name=".AddBooks" />
+        <activity android:name=".Done" />
+        <activity android:name=".HomePage" />
+        <activity android:name=".SignIn" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".Bookshelf" />
+        <activity android:name=".FirstPage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

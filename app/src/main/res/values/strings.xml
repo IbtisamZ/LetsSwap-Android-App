@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Let\'s Swap</string>
+
+    <string-array name="categories">
+        <item>History</item>
+        <item>Science</item>
+        <item>Religion</item>
+        <item>Philosophy</item>
+        <item>Science Fiction</item>
+        <item>Politics</item>
+        <item>Mystery</item>
+        <item>Poetry</item>
+        <item>Romance</item>
+    </string-array>
+</resources>
