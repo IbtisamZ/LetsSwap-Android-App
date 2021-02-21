@@ -6,5 +6,5 @@ Let's Swap App enables readers to borrow and lend books with each other. The app
 
 This is a group project for the academic course: Application development (CS410) - 2020.
 
-Here's the demo:
+### Demo
 ![](demo.gif)
